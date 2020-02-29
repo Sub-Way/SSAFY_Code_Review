@@ -31,7 +31,7 @@
   - 등록된 머릿말 (지속적인 추가 필요)
   -  [코드 효율] [논리 지적] [코드 질문]  [논리 질문] [반례] [기타 제안]
 
-# Language : Java
+# Environment
   - java : zulu 1.8 open jdk  / java 9 이상의 version
   - IDE : eclipse , IntelliJ  
   - OS : Windows10 / MacOS
