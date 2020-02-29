@@ -3,7 +3,7 @@
 
 
 # 처음 참여할 때
-  - clone을 바로 하지말고 fork를 한 뒤 로컬에다 브랜치 만들고 commit & push 하고 Pull Requests를 보낼 것.
+  - clone을 바로 하지말고 fork를 하고 Clone 한 뒤 로컬에다 브랜치 만들고 commit & push 하고 Pull Requests를 보낼 것.
   -  참고 사이트 : https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
 
 # 문제 올릴 때
@@ -19,6 +19,8 @@
       (이외에 사이트는 _ 이름(별칭)을 지우면 바로 테스트 할 수 있는 클래스 이름_이름(별칭)으로 java파일을 만들어 올릴 것.) 
   - 다음 링크 참고  
         https://github.com/phm0127/SSAFY_Code_Review/blob/master/src/SWEA_1952_%EC%88%98%EC%98%81%EC%9E%A5/Solution_%EB%B0%95%ED%98%95%EB%AF%BC.java
+
+  - 다른 사람 Code는 왠만하면 손대지 말 것! 코드 리뷰는 Issue를 통해 할 것.
       
 # 코드 파일 구성
    [구현]시 [구현] 표시 생략 가능/ 가능하면 [메모리] 및 [실행시간] 표기 및 적용한 [알고리즘 기법]이나 [방법론]을 제시할 것.
