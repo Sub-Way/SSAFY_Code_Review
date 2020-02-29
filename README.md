@@ -1,7 +1,10 @@
 # SSAFY_Code_Review
+  - [SSAFY_BUS 코드 리뷰 공간].
+
 
 # 처음 참여할 때
-  clone을 바로 하지말고 fork를 한 뒤 로컬에다 브랜치 만들고 commit & push 하고 Pull Requests를 보낼 것.
+  - clone을 바로 하지말고 fork를 한 뒤 로컬에다 브랜치 만들고 commit & push 하고 Pull Requests를 보낼 것.
+    참고 사이트 : https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
 
 # 문제 올릴 때
   - 올리려는 문제에 pakage가 없을 경우.
@@ -21,8 +24,11 @@
 
 
 # Language : Java
+  - java : zulu 1.8 open jdk  / java 9 이상의 version
+  - IDE : eclipse , IntelliJ  
+  - OS : Windows10 / MacOS
 
-# 참고 알고리즘 문제 사이트
+# 참고 알고리즘 사이트
 
 백준 (https://www.acmicpc.net/)
 
